@@ -55,7 +55,6 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Contact
 Business Email: harisstefan1@gmail.com  
-
 Portfolio: https://harrisstef.com  
 
 
