@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Harris</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Automation+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Developer;Backend+Developer;Automation+Enthusiast" 
+    alt="Typing SVG"
+  />
 </p>
-
 
 ---
 
