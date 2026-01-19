@@ -1,15 +1,15 @@
 # Hi, I'm Harris
 
-### Backend Developer | PHP & Python Automation
+### ### Full Stack Developer | Entry Level 
 
 ---
 
-🧠 I build practical backend tools and automation scripts  
+ I build practical backend tools and automation scripts  
 focused on emails, APIs, data processing and system utilities.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
@@ -22,20 +22,19 @@ focused on emails, APIs, data processing and system utilities.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-- 📧 **AutoSendEmail** – Automated email sending with PHP
-- 📄 **Document-scan** – Document processing system
-- 🐍 **Xml-compare** – XML comparison tool in Python
+-  **AutoSendEmail** – Automated email sending with PHP
+-  **Document-scan** – Document processing system
+-  **Xml-compare** – XML comparison tool in Python
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisstef8&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisstef8&layout=compact&theme=dark)
 
 ---
 
-## 📫 Contact
-📧 Email: your@email.com
+##  Contact
+Business Email: harisstefan1@gmail.com
