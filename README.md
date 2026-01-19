@@ -1,6 +1,10 @@
 # Hi, I'm Harris
 
-### ### Full Stack Developer | Entry Level 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Automation+Enthusiast)
+
+---
+
+### Full Stack Developer | Entry Level 
 
 ---
 
@@ -43,5 +47,5 @@ focused on emails, APIs, data processing and system utilities.
 Business Email: harisstefan1@gmail.com
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;PHP+%7C+Python;Automation+Enthusiast)
-![Visitors](https://komarev.com/ghpvc/?username=harrisstef8&color=blue)
+
+
