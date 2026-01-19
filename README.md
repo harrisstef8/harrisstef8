@@ -6,6 +6,11 @@
 
 ### Full Stack Developer | Entry Level 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-harrisstef.com-blue)](https://harrisstef.com)
+
+[![Portfolio](https://img.shields.io/badge/Website-harrisstef.com-blue)](https://harrisstef.com)
+
+
 ---
 
  I build practical backend tools and automation scripts  
@@ -53,7 +58,7 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Contact
 Business Email: harisstefan1@gmail.com
-
+Portfolio: https://harrisstef.com  
 
 
 
