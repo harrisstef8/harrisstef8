@@ -15,12 +15,17 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Tech Stack
 
-### Frontend
+## Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26)
+![CSS](https://img.shields.io/badge/CSS3-1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB)
 
-
-### Backend
+## Backend
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00)
+
 
 ### Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1)
