@@ -1,4 +1,4 @@
-# Hi, I'm Harris
+<h1 align="center">Hi, I'm Harris</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Automation+Enthusiast)
 
