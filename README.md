@@ -11,6 +11,9 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Tech Stack
 
+### Frontend
+
+
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-yellow)
@@ -38,3 +41,7 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Contact
 Business Email: harisstefan1@gmail.com
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;PHP+%7C+Python;Automation+Enthusiast)
+![Visitors](https://komarev.com/ghpvc/?username=harrisstef8&color=blue)
