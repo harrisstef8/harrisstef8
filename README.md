@@ -1,6 +1,4 @@
-### Hi, I'm Harris
-
----
+# Hi, I'm Harris
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Automation+Enthusiast)
 
