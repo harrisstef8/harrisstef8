@@ -15,8 +15,8 @@
 
 ---
 
- I build practical backend tools and automation scripts  
-focused on emails, APIs, data processing and system utilities.
+I am a junior web developer and a graduate of Applied Informatics from the University of Macedonia, aspiring to grow professionally in the field of web development.  
+I enjoy building simple, efficient, and user-friendly web interfaces, and I have a strong interest in automation, creating scripts and tools that simplify repetitive tasks and improve workflows.
 
 ---
 
