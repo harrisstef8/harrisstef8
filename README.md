@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Harris
 
-<!--
-**harrisstef8/harrisstef8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | PHP & Python Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I build practical backend tools and automation scripts  
+focused on emails, APIs, data processing and system utilities.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+![Python](https://img.shields.io/badge/Python-3.11-yellow)
+
+### Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+![Git](https://img.shields.io/badge/Git-F05032)
+![Docker](https://img.shields.io/badge/Docker-2496ED)
+
+---
+
+## 🚀 Featured Projects
+
+- 📧 **AutoSendEmail** – Automated email sending with PHP
+- 📄 **Document-scan** – Document processing system
+- 🐍 **Xml-compare** – XML comparison tool in Python
+
+---
+
+## 📊 GitHub Stats
+
+![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisstef8&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisstef8&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+📧 Email: your@email.com
