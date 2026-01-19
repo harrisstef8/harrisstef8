@@ -33,11 +33,15 @@ I enjoy building simple, efficient, and user-friendly web interfaces, and I have
 ![Python](https://img.shields.io/badge/Python-3.11-yellow)
 ![Java](https://img.shields.io/badge/Java-ED8B00)
 
+### Data & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 
 ### Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 ![Git](https://img.shields.io/badge/Git-F05032)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000)
+
+
 
 ---
 
