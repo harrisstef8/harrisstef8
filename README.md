@@ -36,9 +36,12 @@ focused on emails, APIs, data processing and system utilities.
 
 ##  Featured Projects
 
--  **AutoSendEmail** – Automated email sending with PHP
--  **Document-scan** – Document processing system
--  **Xml-compare** – XML comparison tool in Python
+-  Agrodraesis – Dynamic agricultural website
+-  AutoSendEmail – Email automation with PHP
+-  Document-scan – Automated data entry from scanned documents
+-  Xml-compare – XML comparison tool in Python
+-  GoogleDrive – File & folder access automation via Google Drive
+
 
 ---
 
